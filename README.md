@@ -14,3 +14,9 @@ Writing objects: 100% (3/3), 212 bytes | 212.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0)                                                                                                 
 To https://github.com/{YOUR_USERNAME}/alx-zero_day.git                                                                                       
  * [new branch]      master -> master    
+bash, c, js
+c/c_is_fun.c
+js/main.js
+js/index.js
+bash/alx #!/bin/bash echo "ALX"
+bash/school #!/bin/bash echo "School"
